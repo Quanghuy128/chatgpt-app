@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'BetterHelp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69F8267950044738B32263EC27200958 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19DA64D36590492396B1D842947B305F }}
           package: .
